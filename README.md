@@ -1,2 +1,2 @@
-# offset-stream
-Streaming offsets from pastebin
+# Offset Streamer
+This is a fun project I made that is most likely useless. If you want to try it, here you go! It basically gets offsets from whatever website (in this case, pastebin) and then reads from it. The current limitation is that I only made it read offsets as in. The pastebin will have to only have offsets in a certain order for it to work. Maybe you can improve it? It was written in 10 minutes anyways.
